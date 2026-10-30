@@ -253,8 +253,8 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 ## 👤 Author
 
-**Rakesh Choudhary**
-- GitHub: [@RakeshChoudhary49](https://github.com/RakeshChoudhary49)
-- Email: rc7724889@gmail.com
+**Chirag Rathore**
+- GitHub: https://github.com/chiragrathore937/mobile-urban-intelligence
+- Email: chiragrathore937@gmail.com
 
 *Built during SIH 2026 — Mobile Urban Intelligence Platform*
